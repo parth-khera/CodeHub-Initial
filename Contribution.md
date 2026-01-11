@@ -27,3 +27,7 @@ You can contribute in many ways:
 2. Clone your fork:
    ```bash
    git clone https://github.com/parth-khera/CodeHub.git
+   git checkout -b feature/your-feature-name
+   git commit -m "Added: description of your change"
+   git push origin feature/your-feature-name
+
