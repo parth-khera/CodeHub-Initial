@@ -1,5 +1,5 @@
 
-The inspiration behind CodeHub comes from one simple observation:
+The inspiration behind our project CodeHub comes from one simple observation:
 developers today are forced to jump between too many platforms to grow.
 
 You practice DSA on LeetCode or Codeforces.
